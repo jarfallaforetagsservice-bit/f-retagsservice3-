@@ -1,4 +1,4 @@
-const FORM_EMAIL = "foretagsservice4.jarfalla@bauhaus.se";
+const FORM_EMAIL = "foretagsservice3.jarfalla@bauhaus.se";
 
 const form = document.getElementById("contactForm");
 const statusText = document.getElementById("status");
